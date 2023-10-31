@@ -1,56 +1,56 @@
-# 👋 Hi there, I'm Simon Jędryczko
+# 👋 Cześć, jestem Simon Jędryczko
 ---
 
-I'm on a mission to create the **code of the future** that's changing the world. Explore my GitHub and discover the magical results of my work! ✨💻
+Jestem na misji, aby stworzyć **kod przyszłości**, który zmienia świat. Odkryj mój GitHub i odkryj magiczne rezultaty mojej pracy! ✨💻
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ProfessionalCatSummoner)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/szymon-jędryczko/)
 
-## 💡 About My Mission:
-I'm a passionate and innovative programmer deeply convinced that technology has the power to transform the world. My mission is to create innovative code that **revolutionizes industries** and pushes the boundaries of what's possible. I'm inspired by Robert Cialdini's theory that people trust and support those who act with passion. I aspire to take on challenges and am dedicated to making a **meaningful impact** through my work.
+## 💡 O Misji:
+Jestem pasjonującym i innowacyjnym programistą, głęboko przekonanym, że technologia ma moc, aby zmienić świat. Moją misją jest tworzenie innowacyjnego kodu, który **rewolucjonizuje branże** i przesuwa granice tego, co jest możliwe. Inspiruje mnie teoria Roberta Cialdiniego, że ludzie ufają i wspierają tych, którzy działają z pasją. Aspirować do podjęcia wyzwań i poświęcenia pracy **znaczącego wpływu**.
 
-## 👨‍💻 My Expertise:
-With a strong background in software development and a keen eye for emerging technologies, I specialize in crafting elegant and efficient solutions that tackle real-world problems. In my "toolbox," you'll find a variety of programming languages and tools, allowing me to adapt to the needs of any project.
+## 👨‍💻 Moje Ekspertyzy:
+Z silnym doświadczeniem w tworzeniu oprogramowania i wyczuciem nadchodzących technologii specjalizuję się w tworzeniu eleganckich i efektywnych rozwiązań, które rozwiązują rzeczywiste problemy. W moim "toolboxie" znajdziesz różne języki programowania i narzędzia, które pozwalają mi dostosować się do potrzeb każdego projektu.
 
-## 🌟 What Sets Me Apart:
-What sets me apart is my unwavering pursuit of excellence. I don't settle for the status quo; I'm constantly seeking new ways to **innovate and push boundaries**. My passion for coding drives every project I work on, and I'm always eager to learn and explore new horizons.
+## 🌟 To, Co Mnie Wyróżnia:
+To, co mnie wyróżnia, to nieustanne dążenie do doskonałości. Nie godzę się na status quo; ciągle szukam nowych sposobów na **innowację i przesuwanie granic**. Pasja do kodowania napędza każdy projekt, nad którym pracuję, i zawsze jestem chętny do nauki i eksploracji nowych horyzontów.
 
-## 💼 My GitHub Adventure:
-I invite you to explore my GitHub repository, where you can witness the magic of my code unfolding. It's a place where I share my creations, collaborate with like-minded individuals, and contribute to **open-source projects**. Every line of code is a piece of the puzzle in my mission to change the world, project by project.
+## 💼 Przygoda na GitHubie:
+Zapraszam do przeglądania mojego repozytorium na GitHubie, gdzie możesz zobaczyć magię mojego kodu. To miejsce, w którym dzielę się swoimi tworzeniami, współpracuję z osobami o podobnych poglądach i przyczyniam się do projektów **open-source**. Każda linia kodu to kawałek układanki w mojej misji zmiany świata, projekt po projekcie.
 
-## 🌐 Let's Join Forces:
-I'm always open to new opportunities, collaborations, and discussions. If you share my vision of shaping the technology of the future, I encourage you to get in touch. Together, we can breathe life into **innovation** and make a **positive impact** on the world.
+## 🌐 Dołączmy Siły:
+Zawsze jestem otwarty na nowe możliwości, współpracę i dyskusje. Jeśli podzielasz moją wizję kształtowania technologii przyszłości, zachęcam do kontaktu. Razem możemy tchnąć życie w **innowację** i wywrzeć **pozytywny wpływ** na świat.
 
-✨ Join me on a journey that's shaping the future through code. Together, we can change the world, one line at a time. 💻🌍
+✨ Dołącz do mnie w podróży, która kształtuje przyszłość poprzez kod. Razem możemy zmienić świat, linia po linii. 💻🌍
 
-## Skills:
-- **Python 3**
-- **C++**
-- **JavaScript**
-- **Java**
-- **PHP**
-- **R**
-- **Kotlin**
-- **Git**
-- **GitHub**
-- **Kali Linux**
-- **Wireshark**
-- **Burp Suite**
-- **Maltego**
-- **Metasploit Framework**
-- **SQLMap**
-- **React**
-- **Django**
-- **Flask**
-- **NumPy**
-- **Express.js**
-- **Ruby on Rails**
-- **Node.js**
+## Umiejętności:
+- **Python 3** 🐍
+- **C++** 🖥️
+- **JavaScript** 🌐
+- **Java** ☕
+- **PHP** 💬
+- **R** 📊
+- **Kotlin** 📱
+- **Git** 🐙
+- **GitHub** 🌐
+- **Kali Linux** 💻🐧
+- **Wireshark** 🌐🔍
+- **Burp Suite** 🌐🕵️
+- **Maltego** 🌐🕵️
+- **Metasploit Framework** 🌐🕵️
+- **SQLMap** 🌐💼
+- **React** ⚛️
+- **Django** 🌐🕸️
+- **Flask** 🌐🍶
+- **NumPy** 🧮
+- **Express.js** 🌐🚂
+- **Ruby on Rails** 🚅🛤️
+- **Node.js** 🌐🟢
 
-## Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessionalCatSummoner)
+## Najpopularniejsze Języki:
+![Najpopularniejsze Języki](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessionalCatSummoner)
 
-## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProfessionalCatSummoner&show_icons=true)
+## Statystyki GitHub:
+![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=ProfessionalCatSummoner&show_icons=true)
 
-## GitHub Metrics:
-![GitHub Metrics](https://metrics.lecoq.io/ProfessionalCatSummoner)
+## Metryki GitHub:
+![Metryki GitHub](https://metrics.lecoq.io/ProfessionalCatSummoner)
