@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Simon Jędryczko</h1>
+<h1 align="center">👋 Hi, I'm Simon Jędryczko</h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/85062086?v=4" alt="Simon Jędryczko" width="250" height="250">
@@ -15,12 +15,6 @@
 
 I'm a passionate programmer with two years of experience who recently decided to fully immerse myself in creating the code of the future. My mission is to craft innovative solutions that not only solve problems but also **revolutionize industries**. As Robert Cialdini once said, people trust and support those who act with passion. That's what inspires me to strive for **significant impact**.
 
-<h2 align="center">🚀 My Journey</h2>
-
-<p align="center">
-  <img src="https://your-journey-image-url-here" alt="My Coding Journey" width="600">
-</p>
-
 <h2 align="center">👨‍💻 My Expertise</h2>
 
 <p align="center">
@@ -31,12 +25,6 @@ I'm a passionate programmer with two years of experience who recently decided to
 
 <p align="center">
   I'm constantly pursuing excellence and never settle for the status quo. My passion for coding drives every project I work on. I'm eager to learn and explore new horizons, always with a focus on **innovation and pushing boundaries**.
-</p>
-
-<h2 align="center">💼 GitHub Adventure</h2>
-
-<p align="center">
-  <img src="https://your-github-repo-image-url-here" alt="My GitHub Repository" width="800">
 </p>
 
 <h2 align="center">🌐 Let's Join Forces</h2>
