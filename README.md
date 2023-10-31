@@ -1,4 +1,5 @@
 <head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
@@ -34,57 +35,46 @@
         <section>
             <h2>🌐 Let's Join Forces</h2>
             <p>I'm always open to new opportunities, collaboration, and discussions. If you share my vision of shaping the technology of the future, I encourage you to reach out. Together, we can breathe life into <strong>innovation</strong> and make a <strong>positive impact</strong> on the world.</p>
-        </section>
-        <section class="skills">
-            <h2>💻 My Skills</h2>
-            <div class="languages">
-                <h3>Programming Languages:</h3>
-                <ul>
-                    <li>Python 3 🐍</li>
-                    <li>C++ 🖥️</li>
-                    <li>JavaScript 🌐</li>
-                    <li>Java ☕</li>
-                    <li>PHP 💬</li>
-                    <li>R 📊</li>
-                    <li>Kotlin 📱</li>
-                </ul>
-            </div>
-            <div class="version-control">
-                <h3>Version Control:</h3>
-                <ul>
-                    <li>Git 🐙</li>
-                    <li>GitHub 🌐</li>
-                </ul>
-            </div>
-            <div class="security">
-                <h3>Security and Ethical Hacking:</h3>
-                <ul>
-                    <li>Kali Linux 💻🐧</li>
-                    <li>Wireshark 🌐🔍</li>
-                    <li>Burp Suite 🌐🕵️</li>
-                    <li>Maltego 🌐🕵️</li>
-                    <li>Metasploit Framework 🌐🕵️</li>
-                    <li>SQLMap 🌐💼</li>
-                </ul>
-            </div>
-            <div class="web-development">
-                <h3>Web Development:</h3>
-                <ul>
-                    <li>React ⚛️</li>
-                    <li>Django 🌐🕸️</li>
-                    <li>Flask 🌐🍶</li>
-                    <li>Node.js 🌐🟢</li>
-                    <li>Ruby on Rails 🚅🛤️</li>
-                    <li>Express.js 🌐🚂</li>
-                </ul>
-            </div>
-            <div class="data-science">
-                <h3>Data Science:</h3>
-                <ul>
-                  <li>NumPy 🧮</li>
-                </ul>
-            </div>
-        </section>
+        <section>
+    <h2>💻 My Skills</h2>
+    <h3>Programming Languages</h3>
+    <ul>
+        <li><i class="fab fa-python"></i> Python 3</li>
+        <li><i class="fab fa-cuttlefish"></i> C++</li>
+        <li><i class="fab fa-js"></i> JavaScript</li>
+        <li><i class="fab fa-java"></i> Java</li>
+        <li><i class="fab fa-php"></i> PHP</li>
+        <li><i class="fas fa-chart-bar"></i> R</li>
+        <li><i class="fab fa-korvue"></i> Kotlin</li>
+    </ul>
+    <h3>Version Control</h3>
+    <ul>
+        <li><i class="fab fa-git"></i> Git</li>
+        <li><i class="fab fa-github"></i> GitHub</li>
+    </ul>
+    <h3>Security and Ethical Hacking</h3>
+    <ul>
+        <li><i class="fab fa-linux"></i> Kali Linux</li>
+        <li><i class="fas fa-wifi"></i> Wireshark</li>
+        <li><i class="fas fa-search"></i> Burp Suite</li>
+        <li><i class="fas fa-users"></i> Maltego</li>
+        <li><i class="fas fa-shield-alt"></i> Metasploit Framework</li>
+        <li><i class="fas fa-database"></i> SQLMap</li>
+    </ul>
+    <h3>Web Development</h3>
+    <ul>
+        <li><i class="fab fa-react"></i> React</li>
+        <li><i class="fab fa-python"></i> Django</li>
+        <li><i class="fab fa-python"></i> Flask</li>
+        <li><i class="fab fa-node"></i> Node.js</li>
+        <li><i class="fas fa-subway"></i> Ruby on Rails</li>
+        <li><i class="fab fa-js"></i> Express.js</li>
+    </ul>
+    <h3>Data Science</h3>
+    <ul>
+        <li><i class="far fa-chart-bar"></i> NumPy</li>
+    </ul>
+</section>
         <section class="github-stats">
             <h2>Most Used Languages:</h2>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessionalCatSummoner">
