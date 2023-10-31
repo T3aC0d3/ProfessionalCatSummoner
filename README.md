@@ -1,10 +1,10 @@
-# Simon Jędryczko - Transforming Possibilities into Reality
+# Simon Jedryczko - Transforming Possibilities into Reality
 
 **🌐 Portfolio:** [GitHub](https://github.com/ProfessionalCatSummoner) | **🤝 LinkedIn:** [Connect with Me](https://www.linkedin.com/in/szymon-jędryczko/)
 
 ## 🚀 Visionary Developer with a Mission
 
-Greetings! I'm Simon Jędryczko, a forward-thinking developer with a clear mission – to leverage the immense potential of technology. I firmly believe that technology is the catalyst for change, capable of revolutionizing industries and reshaping the world. My mission is to create cutting-edge code that not only solves problems but transforms them into opportunities. I draw inspiration from the principle that people trust and support those who act with passion. I'm dedicated to embracing challenges and making a meaningful impact.
+Greetings! I'm Simon Jedryczko, a forward-thinking developer with a clear mission – to leverage the immense potential of technology. I firmly believe that technology is the catalyst for change, capable of revolutionizing industries and reshaping the world. My mission is to create cutting-edge code that not only solves problems but transforms them into opportunities. I draw inspiration from the principle that people trust and support those who act with passion. I'm dedicated to embracing challenges and making a meaningful impact.
 
 ## 💻 Expertise & Innovation
 
