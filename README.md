@@ -3,16 +3,16 @@
 **🌐 Portfolio:** [GitHub](https://github.com/ProfessionalCatSummoner) | **🤝 LinkedIn:** [Connect with Me](https://www.linkedin.com/in/szymon-jędryczko/)
 
 🚀 Visionary Developer with a Mission
-Greetings! I'm Simon Jedryczko, a forward-thinking developer with a clear mission – to leverage the immense potential of technology. I firmly believe that technology is the catalyst for change, capable of revolutionizing industries and reshaping the world. My mission is to create cutting-edge code that not only solves problems but transforms them into opportunities. I draw inspiration from the principle that people trust and support those who act with passion. I'm dedicated to embracing challenges and making a meaningful impact. 💪🌎
+Greetings! I'm Simon Jedryczko, a forward-thinking developer with a clear mission – to leverage the immense potential of technology. I firmly believe that technology is the catalyst for change, capable of revolutionizing industries and reshaping the world. My mission is to create cutting-edge code that not only solves problems but transforms them into opportunities. I draw inspiration from the principle that people trust and support those who act with passion. I'm dedicated to embracing challenges and making a meaningful impact.
 
 💻 Expertise & Innovation
-With extensive experience in software development and an affinity for emerging technologies, I specialize in crafting elegant and efficient solutions that address real-world challenges. My toolkit comprises a versatile array of programming languages and advanced tools, enabling me to adapt to the unique demands of each project. What truly sets me apart is my unrelenting pursuit of excellence. I'm not content with the status quo – I'm constantly exploring innovative ways to push boundaries and create something extraordinary. My coding passion drives every project, and I'm eager to explore uncharted territories. 🌟💻
+With extensive experience in software development and an affinity for emerging technologies, I specialize in crafting elegant and efficient solutions that address real-world challenges. My toolkit comprises a versatile array of programming languages and advanced tools, enabling me to adapt to the unique demands of each project. What truly sets me apart is my unrelenting pursuit of excellence. I'm not content with the status quo – I'm constantly exploring innovative ways to push boundaries and create something extraordinary. My coding passion drives every project, and I'm eager to explore uncharted territories.
 
 🌐 GitHub Odyssey
-Welcome to my GitHub repository, a dynamic space where I share my creations, collaborate with like-minded individuals, and contribute to open-source projects. Each line of code I write is a vital part of my mission to change the world one project at a time. 🛠️🌐
+Welcome to my GitHub repository, a dynamic space where I share my creations, collaborate with like-minded individuals, and contribute to open-source projects. Each line of code I write is a vital part of my mission to change the world one project at a time.
 
 🤝 Let's Collaborate
-I'm always open to new opportunities, collaboration, and engaging discussions. If you share my vision for shaping the future of technology, I encourage you to reach out. Together, we can bring innovation to life and make a profound positive impact on the world. 🤝🚀
+I'm always open to new opportunities, collaboration, and engaging discussions. If you share my vision for shaping the future of technology, I encourage you to reach out. Together, we can bring innovation to life and make a profound positive impact on the world.
 
 ## 💼 Technical Proficiency
 
