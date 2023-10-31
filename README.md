@@ -3,7 +3,7 @@
 
 I'm on a mission to create the **code of the future** that's changing the world. Explore my GitHub and discover the magical results of my work! ✨💻
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ProfessionalCatSummoner)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/szymon-jędryczko/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ProfessionalCatSummoner)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/szymon-jędryczko/)
 
 ## 💡 About My Mission:
 I'm a passionate and innovative programmer deeply convinced that technology has the power to transform the world. My mission is to create innovative code that **revolutionizes industries** and pushes the boundaries of what's possible. I'm inspired by Robert Cialdini's theory that people trust and support those who act with passion. I aspire to take on challenges and am dedicated to making a **meaningful impact** through my work.
