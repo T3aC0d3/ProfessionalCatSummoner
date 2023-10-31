@@ -7,10 +7,10 @@
         <h1>👋 Hello, I'm Simon Jędryczko</h1>
         <div class="icons">
             <a href="https://github.com/ProfessionalCatSummoner">
-                <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github">
+                <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" style="height: 30px;">
             </a>
             <a href="https://www.linkedin.com/in/szymon-jędryczko/">
-                <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin">
+                <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" style="height: 30px;">
             </a>
         </div>
     </header>
