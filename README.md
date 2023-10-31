@@ -3,8 +3,7 @@
 
 I'm on a mission to create the **code of the future** that's changing the world. Explore my GitHub and discover the magical results of my work! ✨💻
 
-[![GitHub](https://img.shields.io/badge/GitHub-ProfessionalCatSummoner-181717?logo=github&style=for-the-badge)](https://github.com/ProfessionalCatSummoner)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Simon%20Jędryczko-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/www.linkedin.com/in/szymon-jędryczko/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ProfessionalCatSummoner)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/szymon-jędryczko/)
 
 ## 💡 About My Mission:
 I'm a passionate and innovative programmer deeply convinced that technology has the power to transform the world. My mission is to create innovative code that **revolutionizes industries** and pushes the boundaries of what's possible. I'm inspired by Robert Cialdini's theory that people trust and support those who act with passion. I aspire to take on challenges and am dedicated to making a **meaningful impact** through my work.
@@ -46,9 +45,6 @@ I'm always open to new opportunities, collaborations, and discussions. If you sh
 - **Express.js**
 - **Ruby on Rails**
 - **Node.js**
-
-## GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ProfessionalCatSummoner)
 
 ## Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessionalCatSummoner)
