@@ -1,4 +1,4 @@
-# Simon Jedryczko - Transforming Possibilities into Reality
+# Simon Jedryczko - Turning Dreams into Code
 
 **🌐 Portfolio:** [GitHub](https://github.com/ProfessionalCatSummoner) | **🤝 LinkedIn:** [Connect with Me](https://www.linkedin.com/in/szymon-jędryczko/)
 
