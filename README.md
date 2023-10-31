@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Simon Jędryczko</h1>
 
 <p align="center">
-  <img src="https://your-image-url-here" alt="Simon Jędryczko" width="250" height="250">
+  <img src="https://avatars.githubusercontent.com/u/85062086?v=4" alt="Simon Jędryczko" width="250" height="250">
 </p>
 
 <h3 align="center">Passionate Programmer | Innovator | Code Enthusiast</h3>
