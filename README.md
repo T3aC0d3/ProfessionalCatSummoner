@@ -2,21 +2,21 @@
 
 **🌐 Portfolio:** [GitHub](https://github.com/ProfessionalCatSummoner) | **🤝 LinkedIn:** [Connect with Me](https://www.linkedin.com/in/szymon-jędryczko/)
 
-Greetings,
+Hello,
 
-I am Simon Jedryczko, a dedicated developer with a fervent commitment to leveraging technology for remarkable achievements. I firmly believe in the transformative impact of technology on industries and the global landscape. My primary objective is to craft innovative code that not only resolves challenges but also unveils exciting possibilities. I am unwavering in my dedication to infusing enthusiasm into my work and making a tangible impact.
+I am Simon Jedryczko, a dedicated developer with a strong commitment to using technology for meaningful achievements. I believe in the positive impact of technology on various industries and the world at large. My main goal is to create innovative code that not only solves challenges but also opens up exciting possibilities. I am dedicated to bringing enthusiasm into my work and making a real impact.
 
-💻 Expertise & Innovation
+💻 Skills & Innovation
 
-Having traversed diverse realms of software development, I take pleasure in exploring the latest technological tools. My focus centers on devising intelligent solutions for real-world challenges. Equipped with proficiency in various programming languages and adept handling of sophisticated tools, I am well-prepared to tackle a spectrum of tasks. What distinguishes me is my steadfast commitment to exploring novel and creative approaches to problem-solving. Each coding project is an invigorating endeavor, as I am always poised to venture into uncharted territories.
+I have experience in diverse areas of software development and enjoy exploring the latest technological tools. My focus is on creating smart solutions for real-world challenges. With proficiency in various programming languages and handling sophisticated tools, I am well-equipped for a range of tasks. What sets me apart is my commitment to finding new and creative ways to solve problems. Every coding project is an exciting opportunity for me to venture into uncharted territories.
 
-🌐 GitHub Expedition
+🌐 GitHub Experience
 
-Feel free to explore my GitHub page – it serves as my creative hub. Here, I share my work, collaborate with fellow professionals, and actively contribute to open-source projects. Admittedly, I acknowledge past irregularities in maintaining a robust GitHub presence; however, I am actively addressing this to ensure consistency. Every line of code I produce contributes to my overarching mission of changing the world, project by project.
+Feel free to explore my GitHub page, where I share my work, collaborate with professionals, and contribute to open-source projects. I acknowledge past irregularities in maintaining a robust GitHub presence, and I am actively working to ensure consistency. Every line of code I write contributes to my mission of changing the world, project by project.
 
-🤝 Let's Collaborate
+🤝 Let's Work Together
 
-I am open to new opportunities, collaborative ventures, and engaging conversations. If you share my passion for shaping the future of technology, please do not hesitate to get in touch. Together, we can breathe life into exciting ideas and make a positive impact on the world.
+I am open to new opportunities, collaborative ventures, and meaningful conversations. If you share my passion for shaping the future of technology, please feel free to reach out. Together, we can bring exciting ideas to life and make a positive impact on the world.
 
 ## 💼 Technical Proficiency
 
