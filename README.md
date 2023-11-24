@@ -2,8 +2,6 @@
 
 **🌐 Portfolio:** [GitHub](https://github.com/ProfessionalCatSummoner) | **🤝 LinkedIn:** [Connect with Me](https://www.linkedin.com/in/szymon-jędryczko/)
 
-🚀 Visionary Developer with a Mission
-
 Greetings,
 
 I am Simon Jedryczko, a forward-thinking developer with a distinct mission – to harness the vast potential of technology. Firmly believing that technology serves as a catalyst for transformative change, capable of revolutionizing industries and reshaping our world, I am dedicated to crafting cutting-edge code that not only addresses challenges but transforms them into opportunities. My inspiration stems from the belief that people rally behind those who approach their work with passion. I am committed to embracing challenges and making a meaningful impact.
