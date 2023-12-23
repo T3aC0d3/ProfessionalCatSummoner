@@ -2,21 +2,21 @@
 
 **🌐 Portfolio:** [GitHub](https://github.com/ProfessionalCatSummoner) | **🤝 LinkedIn:** [Connect with Me](https://www.linkedin.com/in/szymon-jędryczko/)
 
-Hello,
+Hi there,
 
-I am Simon Jedryczko, a dedicated developer with a strong commitment to using technology for meaningful achievements. I believe in the positive impact of technology on various industries and the world at large. My main goal is to create innovative code that not only solves challenges but also opens up exciting possibilities. I am dedicated to bringing enthusiasm into my work and making a real impact.
+I'm Simon Jedryczko, a dedicated developer passionate about using technology for meaningful achievements. I truly believe in how tech can make a positive impact across different industries and the world. My main goal is to write innovative code that not only solves problems but also opens up exciting possibilities. I love bringing enthusiasm into my work and making a real difference.
 
 💻 Skills & Innovation
 
-I have experience in diverse areas of software development and enjoy exploring the latest technological tools. My focus is on creating smart solutions for real-world challenges. With proficiency in various programming languages and handling sophisticated tools, I am well-equipped for a range of tasks. What sets me apart is my commitment to finding new and creative ways to solve problems. Every coding project is an exciting opportunity for me to venture into uncharted territories.
+I've worked on various software projects and enjoy exploring the latest tech tools. My focus is on creating smart solutions for real-life problems. I'm comfortable with different programming languages and tools, and what makes me stand out is my knack for finding new and creative ways to solve problems. Every coding project is like an adventure for me.
 
 🌐 GitHub Experience
 
-Feel free to explore my GitHub page, where I share my work, collaborate with professionals, and contribute to open-source projects. I acknowledge past irregularities in maintaining a robust GitHub presence, and I am actively working to ensure consistency. Every line of code I write contributes to my mission of changing the world, project by project.
+You're welcome to check out my GitHub page where I share my work, collaborate with other professionals, and contribute to open-source projects. I admit I haven't always been consistent with updating it, but I'm actively working on that. Every line of code I write is a step toward my goal of making a difference, project by project.
 
 🤝 Let's Work Together
 
-I am open to new opportunities, collaborative ventures, and meaningful conversations. If you share my passion for shaping the future of technology, please feel free to reach out. Together, we can bring exciting ideas to life and make a positive impact on the world.
+I'm open to new opportunities, teamwork, and meaningful conversations. If you share my passion for shaping the future with technology, please feel free to reach out. Together, we can bring exciting ideas to life and make a positive impact on the world.
 
 ## 💼 Technical Proficiency
 
@@ -96,5 +96,3 @@ I am open to new opportunities, collaborative ventures, and meaningful conversat
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProfessionalCatSummoner&show_icons=true)
-
-Let's embark on a journey of innovation and transformation together. Reach out and let's create a brighter future through technology! 🌠💻🚀
