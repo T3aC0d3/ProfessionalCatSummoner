@@ -1,6 +1,6 @@
-# Simon Jedryczko - Turning Dreams into Code
+# I wear glasses because I can’t C#.
 
-**🌐 Portfolio:** [GitHub](https://github.com/ProfessionalCatSummoner) | **🤝 LinkedIn:** [Connect with Me](https://www.linkedin.com/in/szymon-jędryczko/)
+**🌐 Portfolio:** [GitHub](https://github.com/T3aC0d3) | **🤝 LinkedIn:** [Connect with Me](https://www.linkedin.com/in/szymon-jędryczko/)
 
 Hi there,
 
@@ -81,7 +81,7 @@ I'm open to new opportunities, teamwork, and meaningful conversations. If you sh
 ## GitHub Insights
 
 ### Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessionalCatSummoner)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T3aC0d3)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProfessionalCatSummoner&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T3aC0d3&show_icons=true)
