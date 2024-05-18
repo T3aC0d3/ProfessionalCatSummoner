@@ -1,22 +1,22 @@
-# I wear glasses because I can’t C#.
+# I wear glasses because I can’t C# (yet).
 
 **🌐 Portfolio:** [GitHub](https://github.com/T3aC0d3) | **🤝 LinkedIn:** [Connect with Me](https://www.linkedin.com/in/szymon-jędryczko/)
 
-Hey there,
+Greetings,
 
-I'm Simon Jedryczko, your friendly neighborhood code wizard, brewing up tech concoctions to sprinkle a little magic into the world. I'm all about using bytes and bits for some seriously cool stuff. Whether it's revolutionizing industries or just making life a tad easier, I'm your guy.
+I am Simon Jedryczko, an adept software engineer dedicated to innovating through technology. My expertise lies in crafting digital solutions that captivate and empower. Whether it's pioneering industry transformations or streamlining everyday tasks, count on me to deliver.
 
-💻 Skills & Sorcery
+💻 Expertise & Innovation
 
-I've dabbled in all sorts of software sorcery and I'm always up for a tech treasure hunt. From Python to Java, I speak the language of machines fluently. But what really sets me apart is my ability to whip up solutions that'll leave you scratching your head wondering, "How did he do that?"
+My proficiency spans various programming languages, from Python to Java, allowing me to converse fluently with machines. Yet, what truly distinguishes me is my knack for devising ingenious solutions that defy conventional wisdom.
 
-🌐 GitHub Adventures
+🌐 GitHub Portfolio
 
-Take a stroll through my GitHub realm and you'll find a trove of my digital escapades. Sure, I might have neglected it a bit in the past, but fear not, I'm currently on a quest to update it with all my latest exploits. Each line of code is like a breadcrumb leading towards a brighter, more enchanted future.
+Embark on a journey through my GitHub repository, where each commit narrates a tale of digital exploration. While my repository may have languished in the past, rest assured, I am currently engaged in an endeavor to update it with my latest achievements. Every line of code serves as a beacon guiding us toward a future brimming with possibilities.
 
-🤝 Let's Make Magic Happen
+🤝 Collaboration and Innovation
 
-I'm all ears for new quests, team-ups, and mind-bending discussions. If you're as jazzed about tech as I am and you're ready to dive into the digital unknown, hit me up. Together, we'll brew up some truly enchanting ideas and sprinkle a little bit of code magic into the world.
+I am receptive to new collaborations, partnerships, and thought-provoking discussions. If you share my passion for technology and are eager to explore uncharted territories in the digital realm, do not hesitate to reach out. Together, we will conjure remarkable ideas and infuse the world with the magic of code.
 
 ## 💼 Technical Proficiency
 
